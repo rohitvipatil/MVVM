@@ -1,1 +1,1 @@
-# For understanding the MVVM and Architechture and Retrofit 
+# For understanding the MVVM Architechture and Retrofit 
